@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1589727535 source:d:\git_repos\algo_practice\02_back_tracking\backtracking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"back_tracking.h"
+
+1589666960 source:d:\git_repos\algo_practice\02_back_tracking\backtracking\n_queen.c
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1589670302 source:d:\git_repos\algo_practice\02_back_tracking\backtracking\knights_journey.c
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"back_tracking.h"
+
+1589727518 d:\git_repos\algo_practice\02_back_tracking\backtracking\back_tracking.h
+	<stdbool.h>
+
+1589670404 source:d:\git_repos\algo_practice\02_back_tracking\backtracking\knights_journey_gfg_sol.c
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"back_tracking.h"
+
+1589722862 source:d:\git_repos\algo_practice\02_back_tracking\backtracking\sudoku_solution.c
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"back_tracking.h"
+
+1589687335 source:d:\git_repos\algo_practice\02_back_tracking\backtracking\knights_journey_gfg_sol3.c
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"back_tracking.h"
+
+1589727558 source:d:\git_repos\algo_practice\02_back_tracking\backtracking\sudoku_solution_sol2.c
+	<string.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"back_tracking.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589620906 source:d:\git_repos\algo_practice\01_recursion\recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"recur_algos.h"
+
+1589620837 d:\git_repos\algo_practice\01_recursion\recursion\recur_algos.h
+
